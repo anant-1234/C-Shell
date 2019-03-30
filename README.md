@@ -5,8 +5,7 @@
 
 # Features
 
-- All basic features
-- Bonus 1 and 2
+- All basic features in a normal shell
 - semicolon separated commands accepted
 - One header file
 - Modularization: each category of functions is defined in different file
